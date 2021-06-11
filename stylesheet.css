@@ -11,6 +11,10 @@ body {
     padding: 0;
 }
 
+p{
+    margin: 1%;
+}
+
 img {
     max-width: 100%;
     height: auto;
