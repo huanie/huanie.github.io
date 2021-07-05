@@ -6,7 +6,7 @@ body {
     padding: 0;
 }
 
-:is(p, hr, h2, h3, h4){
+:is(p, ul, ol, hr, h2, h3, h4){
     line-height: 1.5em;
     margin: 1% 10% 1% 10%;
 }
@@ -43,6 +43,7 @@ img {
     display: flex;
     flex-direction: row;
     align-items: center;
+    margin: 0 auto;
     background-color: #eab700;
     font-size: 1.2em;
     width: auto;
